@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medical Zoom</string>
+    <string name="welcome">Welcome to Medical Zoom!</string>
+    <string name="slogan">Let us help you find the best price for all your medical supply\nneeds!</string>
+    <string name="address">1941 West St.\nAnnapolis, MD\n21403\n</string>
+    <string name="phoneNumber">555-555-5555\n\n</string>
+    <string name="website">www.medicalzoom.com</string>
+</resources>
